@@ -24,7 +24,7 @@ Make sure you have the following installed:
 
 To start the game, run the following command:
 
-##Acknowledgments
+## Acknowledgments
 This Connect4 game implementation is based on the minimax algorithm with alpha-beta pruning. It was developed as a demonstration of AI game-playing strategies.
 
 ```shell
